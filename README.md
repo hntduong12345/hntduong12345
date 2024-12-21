@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thai Duong</h1>
-<h3 align="center">A passonate backend developer</h3>
+<h3 align="center">A passonate backend developer in Viet Nam</h3>
 
 - 📫 How to reach me **hntduong2003@gmail.com**
 
