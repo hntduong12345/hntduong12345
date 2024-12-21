@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thai Duong</h1>
 <h3 align="center">A passonate backend developer</h3>
 
+### :woman_technologist: About Me :
+
 - 🌱 I’m currently learning **Java Spring Boot and ReactJS**
 
 - 📫 How to reach me **hntduong2003@gmail.com**
+
+- ⚡ Fun fact **I sometime curious about problem sovling and when i have time i usally go to hackerank or leetcode to solve some code problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
